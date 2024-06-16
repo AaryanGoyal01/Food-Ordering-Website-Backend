@@ -72,7 +72,7 @@ The system is structured with clear separation of concerns, facilitating maintai
    ```
 
 5. **Access Swagger UI:**
-   - Open a web browser and navigate to [Swagger UI](https://food-delivery-apis-yt3r.onrender.com/swagger-ui/index.html) to explore and interact with the APIs.
+   - Open a web browser and navigate to [Swagger UI](https://food-delivery-apis-yt3r.onrender.com/swagger-ui/index.html) (May take time to open) to explore and interact with the APIs.
    - Alternatively, after running the application, Swagger UI is accessible at `http://localhost:8080/swagger-ui/index.html`.
 
 <img width="944" alt="Screenshot 2024-03-16 003526" src="https://github.com/premganwani619/food-delivery-apis/assets/83330321/ea517602-51ee-4afd-a37d-b448d1350e55">
